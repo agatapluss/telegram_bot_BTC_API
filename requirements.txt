@@ -1,0 +1,7 @@
+pony==0.7.16
+fastapi==0.85.0
+datetime==4.7
+bit==-0.8.0 # для работы с биткойнами
+# telebot
+uvicorn
+requests
